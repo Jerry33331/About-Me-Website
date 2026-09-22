@@ -1,0 +1,46 @@
+[
+  {
+    "id": "msg-1790013643325-tfbkd",
+    "name": "Grossmont Counselor",
+    "email": "counselor@guhsd.net",
+    "reason": "Pre-Med & Academic Mentorship",
+    "message": "Mohammed, your AP Biology progress and college roadmap are exemplary!",
+    "timestamp": "2026-09-21T18:00:43.325Z",
+    "status": "replied",
+    "replied": true,
+    "repliedAt": "2026-09-21T18:00:50.279Z"
+  },
+  {
+    "id": "contact-demo-1",
+    "name": "Dr. Sarah Jenkins",
+    "email": "sjenkins@ucsd.health.edu",
+    "reason": "Pre-Med & Academic Mentorship",
+    "message": "Hello Mohammed, wonderful to see a Grossmont High sophomore combining AI design with a passion for healthcare. Your goal of reaching 517 on the MCAT and physician shadowing is very commendable. Keep up the great work in AP Biology!",
+    "timestamp": "2026-09-20T18:00:35.796Z",
+    "status": "new",
+    "replied": false,
+    "repliedAt": null
+  },
+  {
+    "id": "contact-demo-2",
+    "name": "Grossmont High AI Club Lead",
+    "email": "aiclub@guhsd.net",
+    "reason": "Grossmont High AI Projects",
+    "message": "Hey Mohammed, we loved your interactive portfolio demo. Would you like to present your AI employee collaboration workflow at the next computer science club meeting?",
+    "timestamp": "2026-09-19T18:00:35.797Z",
+    "status": "replied",
+    "replied": true,
+    "repliedAt": "2026-09-21T06:00:35.797Z"
+  },
+  {
+    "id": "contact-demo-3",
+    "name": "Alex Chen",
+    "email": "alex.chen@sdsu.edu",
+    "reason": "Language & Gaming Discussion",
+    "message": "Saw that you are studying Chinese and play competitive games! Let me know if you want to practice HSK character flashcards or join our local collegiate esports scrimmage.",
+    "timestamp": "2026-09-18T18:00:35.797Z",
+    "status": "replied",
+    "replied": true,
+    "repliedAt": "2026-09-20T22:00:35.797Z"
+  }
+]
